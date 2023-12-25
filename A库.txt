@@ -1,0 +1,22 @@
+{"urls": [
+
+        {
+            "name":"🏡【电视盒子】",
+            "url": "https://jihulab.com/YUN88/789/-/raw/main/电视盒子.json?ref_type=heads"
+        },
+        {
+            "name": "🏆主仓线",
+            "url": "https://pan.shangui.cc/f/8x2PHo/琉芸.json"
+        },
+        
+        {
+            "name": "🏆短剧线",
+            "url": "https://jihulab.com/YUN88/789/-/raw/main/短剧.json?ref_type=heads"
+        },
+        {
+            "name": "🏆VS线",
+            "url": "https://codeberg.org/Y00/TVBxo/raw/branch/main/VS.json"
+        }
+        
+       
+    ]}

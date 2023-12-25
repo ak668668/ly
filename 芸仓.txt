@@ -1,0 +1,14 @@
+{"storeHouse": [
+
+{
+    "sourceName":"🏡【电视盒子】",
+    "sourceUrl":"https://notabug.org/liuyun/H-2023/raw/master/A库.txt"
+  
+},
+{
+    "sourceName":"🏡网络搜集",
+    "sourceUrl":"https://notabug.org/liuyun/H-2023/raw/master/B库.txt"
+  
+}
+]
+}
