@@ -1,14 +1,21 @@
 {"storeHouse": [
 
 {
-    "sourceName":"🏡【电视盒子】",
-    "sourceUrl":"https://notabug.org/liuyun/H-2023/raw/master/A库.txt"
-  
+    "sourceName":"🏡【电视盒子】极狐仓库",
+    "sourceUrl":"https://atomgit.com/liuyun/VC/raw/master/A库.json"
 },
 {
-    "sourceName":"🏡网络搜集",
-    "sourceUrl":"https://notabug.org/liuyun/H-2023/raw/master/B库.txt"
-  
+    "sourceName": "🏡AtomGit仓库",
+    "sourceUrl": "https://notabug.org/liuyun/H-2023/raw/master/AtomGit.json"
+},
+{
+    "sourceName": "🏡跑路仓库",
+    "sourceUrl": "https://notabug.org/liuyun/H-2023/raw/master/跑路仓库.json"
+},
+{
+    "sourceName": "🏡notabug仓库",
+    "sourceUrl": "https://notabug.org/liuyun/H-2023/raw/master/notabug.json"
 }
+
 ]
 }
